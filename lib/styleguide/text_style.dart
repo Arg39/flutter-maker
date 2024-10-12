@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:maker/stlyeguide/colors.dart';
+import 'package:maker/styleguide/colors.dart';
 
 final TextStyle poppinsRegular = TextStyle(
   fontFamily: 'Poppins',
