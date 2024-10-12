@@ -1,0 +1,1 @@
+ /home/javanlabs/Documents/maker/.dart_tool/flutter_build/9be6f1ff980e54399429e9db7b137cb2/native_assets.yaml: 
